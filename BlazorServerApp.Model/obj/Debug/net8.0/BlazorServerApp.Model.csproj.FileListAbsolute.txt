@@ -1,0 +1,11 @@
+D:\Praveen\Projects\BlazorFirstHorizonApplication\BlazorServerApp\BlazorServerApp.Model\bin\Debug\net8.0\BlazorServerApp.Model.deps.json
+D:\Praveen\Projects\BlazorFirstHorizonApplication\BlazorServerApp\BlazorServerApp.Model\bin\Debug\net8.0\BlazorServerApp.Model.dll
+D:\Praveen\Projects\BlazorFirstHorizonApplication\BlazorServerApp\BlazorServerApp.Model\bin\Debug\net8.0\BlazorServerApp.Model.pdb
+D:\Praveen\Projects\BlazorFirstHorizonApplication\BlazorServerApp\BlazorServerApp.Model\obj\Debug\net8.0\BlazorServerApp.Model.GeneratedMSBuildEditorConfig.editorconfig
+D:\Praveen\Projects\BlazorFirstHorizonApplication\BlazorServerApp\BlazorServerApp.Model\obj\Debug\net8.0\BlazorServerApp.Model.AssemblyInfoInputs.cache
+D:\Praveen\Projects\BlazorFirstHorizonApplication\BlazorServerApp\BlazorServerApp.Model\obj\Debug\net8.0\BlazorServerApp.Model.AssemblyInfo.cs
+D:\Praveen\Projects\BlazorFirstHorizonApplication\BlazorServerApp\BlazorServerApp.Model\obj\Debug\net8.0\BlazorServerApp.Model.csproj.CoreCompileInputs.cache
+D:\Praveen\Projects\BlazorFirstHorizonApplication\BlazorServerApp\BlazorServerApp.Model\obj\Debug\net8.0\BlazorServerApp.Model.dll
+D:\Praveen\Projects\BlazorFirstHorizonApplication\BlazorServerApp\BlazorServerApp.Model\obj\Debug\net8.0\refint\BlazorServerApp.Model.dll
+D:\Praveen\Projects\BlazorFirstHorizonApplication\BlazorServerApp\BlazorServerApp.Model\obj\Debug\net8.0\BlazorServerApp.Model.pdb
+D:\Praveen\Projects\BlazorFirstHorizonApplication\BlazorServerApp\BlazorServerApp.Model\obj\Debug\net8.0\ref\BlazorServerApp.Model.dll

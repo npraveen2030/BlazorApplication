@@ -1,0 +1,17 @@
+D:\Praveen\Projects\BlazorFirstHorizonApplication\BlazorServerApp\BlazorServerApp.BLL\bin\Debug\net8.0\BlazorServerApp.BLL.deps.json
+D:\Praveen\Projects\BlazorFirstHorizonApplication\BlazorServerApp\BlazorServerApp.BLL\bin\Debug\net8.0\BlazorServerApp.BLL.dll
+D:\Praveen\Projects\BlazorFirstHorizonApplication\BlazorServerApp\BlazorServerApp.BLL\bin\Debug\net8.0\BlazorServerApp.BLL.pdb
+D:\Praveen\Projects\BlazorFirstHorizonApplication\BlazorServerApp\BlazorServerApp.BLL\bin\Debug\net8.0\BlazorServerApp.DLL.dll
+D:\Praveen\Projects\BlazorFirstHorizonApplication\BlazorServerApp\BlazorServerApp.BLL\bin\Debug\net8.0\BlazorServerApp.Model.dll
+D:\Praveen\Projects\BlazorFirstHorizonApplication\BlazorServerApp\BlazorServerApp.BLL\bin\Debug\net8.0\BlazorServerApp.Model.pdb
+D:\Praveen\Projects\BlazorFirstHorizonApplication\BlazorServerApp\BlazorServerApp.BLL\bin\Debug\net8.0\BlazorServerApp.DLL.pdb
+D:\Praveen\Projects\BlazorFirstHorizonApplication\BlazorServerApp\BlazorServerApp.BLL\obj\Debug\net8.0\BlazorServerApp.BLL.csproj.AssemblyReference.cache
+D:\Praveen\Projects\BlazorFirstHorizonApplication\BlazorServerApp\BlazorServerApp.BLL\obj\Debug\net8.0\BlazorServerApp.BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Praveen\Projects\BlazorFirstHorizonApplication\BlazorServerApp\BlazorServerApp.BLL\obj\Debug\net8.0\BlazorServerApp.BLL.AssemblyInfoInputs.cache
+D:\Praveen\Projects\BlazorFirstHorizonApplication\BlazorServerApp\BlazorServerApp.BLL\obj\Debug\net8.0\BlazorServerApp.BLL.AssemblyInfo.cs
+D:\Praveen\Projects\BlazorFirstHorizonApplication\BlazorServerApp\BlazorServerApp.BLL\obj\Debug\net8.0\BlazorServerApp.BLL.csproj.CoreCompileInputs.cache
+D:\Praveen\Projects\BlazorFirstHorizonApplication\BlazorServerApp\BlazorServerApp.BLL\obj\Debug\net8.0\BlazorSe.5E843131.Up2Date
+D:\Praveen\Projects\BlazorFirstHorizonApplication\BlazorServerApp\BlazorServerApp.BLL\obj\Debug\net8.0\BlazorServerApp.BLL.dll
+D:\Praveen\Projects\BlazorFirstHorizonApplication\BlazorServerApp\BlazorServerApp.BLL\obj\Debug\net8.0\refint\BlazorServerApp.BLL.dll
+D:\Praveen\Projects\BlazorFirstHorizonApplication\BlazorServerApp\BlazorServerApp.BLL\obj\Debug\net8.0\BlazorServerApp.BLL.pdb
+D:\Praveen\Projects\BlazorFirstHorizonApplication\BlazorServerApp\BlazorServerApp.BLL\obj\Debug\net8.0\ref\BlazorServerApp.BLL.dll

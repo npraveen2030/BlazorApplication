@@ -1,0 +1,309 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Praveen\\Projects\\BlazorFirstHorizonApplication\\BlazorServerApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{35793B76-F1C0-4927-ACE1-D0CEE1ECF94C}|BlazorServerApp.UI\\BlazorServerApp.UI.csproj|d:\\praveen\\projects\\blazorfirsthorizonapplication\\blazorserverapp\\blazorserverapp.ui\\components\\pocs\\userpagenew.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{35793B76-F1C0-4927-ACE1-D0CEE1ECF94C}|BlazorServerApp.UI\\BlazorServerApp.UI.csproj|solutionrelative:blazorserverapp.ui\\components\\pocs\\userpagenew.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35793B76-F1C0-4927-ACE1-D0CEE1ECF94C}|BlazorServerApp.UI\\BlazorServerApp.UI.csproj|d:\\praveen\\projects\\blazorfirsthorizonapplication\\blazorserverapp\\blazorserverapp.ui\\components\\pocs\\userpagenew.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35793B76-F1C0-4927-ACE1-D0CEE1ECF94C}|BlazorServerApp.UI\\BlazorServerApp.UI.csproj|solutionrelative:blazorserverapp.ui\\components\\pocs\\userpagenew.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35793B76-F1C0-4927-ACE1-D0CEE1ECF94C}|BlazorServerApp.UI\\BlazorServerApp.UI.csproj|d:\\praveen\\projects\\blazorfirsthorizonapplication\\blazorserverapp\\blazorserverapp.ui\\components\\pocs\\userpage.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{35793B76-F1C0-4927-ACE1-D0CEE1ECF94C}|BlazorServerApp.UI\\BlazorServerApp.UI.csproj|solutionrelative:blazorserverapp.ui\\components\\pocs\\userpage.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35793B76-F1C0-4927-ACE1-D0CEE1ECF94C}|BlazorServerApp.UI\\BlazorServerApp.UI.csproj|d:\\praveen\\projects\\blazorfirsthorizonapplication\\blazorserverapp\\blazorserverapp.ui\\components\\pocs\\userpagenew.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{35793B76-F1C0-4927-ACE1-D0CEE1ECF94C}|BlazorServerApp.UI\\BlazorServerApp.UI.csproj|solutionrelative:blazorserverapp.ui\\components\\pocs\\userpagenew.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35793B76-F1C0-4927-ACE1-D0CEE1ECF94C}|BlazorServerApp.UI\\BlazorServerApp.UI.csproj|d:\\praveen\\projects\\blazorfirsthorizonapplication\\blazorserverapp\\blazorserverapp.ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35793B76-F1C0-4927-ACE1-D0CEE1ECF94C}|BlazorServerApp.UI\\BlazorServerApp.UI.csproj|solutionrelative:blazorserverapp.ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC83DD2B-42A0-4491-BFBD-8555280E568E}|BlazorServerApp.Tests\\BlazorServerApp.Tests.csproj|d:\\praveen\\projects\\blazorfirsthorizonapplication\\blazorserverapp\\blazorserverapp.tests\\userservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC83DD2B-42A0-4491-BFBD-8555280E568E}|BlazorServerApp.Tests\\BlazorServerApp.Tests.csproj|solutionrelative:blazorserverapp.tests\\userservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC83DD2B-42A0-4491-BFBD-8555280E568E}|BlazorServerApp.Tests\\BlazorServerApp.Tests.csproj|d:\\praveen\\projects\\blazorfirsthorizonapplication\\blazorserverapp\\blazorserverapp.tests\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC83DD2B-42A0-4491-BFBD-8555280E568E}|BlazorServerApp.Tests\\BlazorServerApp.Tests.csproj|solutionrelative:blazorserverapp.tests\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{660D326A-598B-458E-BA11-848D774CAA71}|BlazorServerApp.BLL\\BlazorServerApp.BLL.csproj|d:\\praveen\\projects\\blazorfirsthorizonapplication\\blazorserverapp\\blazorserverapp.bll\\service\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{660D326A-598B-458E-BA11-848D774CAA71}|BlazorServerApp.BLL\\BlazorServerApp.BLL.csproj|solutionrelative:blazorserverapp.bll\\service\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{660D326A-598B-458E-BA11-848D774CAA71}|BlazorServerApp.BLL\\BlazorServerApp.BLL.csproj|d:\\praveen\\projects\\blazorfirsthorizonapplication\\blazorserverapp\\blazorserverapp.bll\\interface\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{660D326A-598B-458E-BA11-848D774CAA71}|BlazorServerApp.BLL\\BlazorServerApp.BLL.csproj|solutionrelative:blazorserverapp.bll\\interface\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9B7AC48-AC93-48E6-A98B-7701984671EA}|BlazorServerApp.DLL\\BlazorServerApp.DLL.csproj|d:\\praveen\\projects\\blazorfirsthorizonapplication\\blazorserverapp\\blazorserverapp.dll\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9B7AC48-AC93-48E6-A98B-7701984671EA}|BlazorServerApp.DLL\\BlazorServerApp.DLL.csproj|solutionrelative:blazorserverapp.dll\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9B7AC48-AC93-48E6-A98B-7701984671EA}|BlazorServerApp.DLL\\BlazorServerApp.DLL.csproj|d:\\praveen\\projects\\blazorfirsthorizonapplication\\blazorserverapp\\blazorserverapp.dll\\interface\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9B7AC48-AC93-48E6-A98B-7701984671EA}|BlazorServerApp.DLL\\BlazorServerApp.DLL.csproj|solutionrelative:blazorserverapp.dll\\interface\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9B7AC48-AC93-48E6-A98B-7701984671EA}|BlazorServerApp.DLL\\BlazorServerApp.DLL.csproj|d:\\praveen\\projects\\blazorfirsthorizonapplication\\blazorserverapp\\blazorserverapp.dll\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9B7AC48-AC93-48E6-A98B-7701984671EA}|BlazorServerApp.DLL\\BlazorServerApp.DLL.csproj|solutionrelative:blazorserverapp.dll\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9B7AC48-AC93-48E6-A98B-7701984671EA}|BlazorServerApp.DLL\\BlazorServerApp.DLL.csproj|d:\\praveen\\projects\\blazorfirsthorizonapplication\\blazorserverapp\\blazorserverapp.dll\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9B7AC48-AC93-48E6-A98B-7701984671EA}|BlazorServerApp.DLL\\BlazorServerApp.DLL.csproj|solutionrelative:blazorserverapp.dll\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{660D326A-598B-458E-BA11-848D774CAA71}|BlazorServerApp.BLL\\BlazorServerApp.BLL.csproj|d:\\praveen\\projects\\blazorfirsthorizonapplication\\blazorserverapp\\blazorserverapp.bll\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{660D326A-598B-458E-BA11-848D774CAA71}|BlazorServerApp.BLL\\BlazorServerApp.BLL.csproj|solutionrelative:blazorserverapp.bll\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A67C860-0455-43D7-915B-6942D457797C}|BlazorServerApp.Model\\BlazorServerApp.Model.csproj|d:\\praveen\\projects\\blazorfirsthorizonapplication\\blazorserverapp\\blazorserverapp.model\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A67C860-0455-43D7-915B-6942D457797C}|BlazorServerApp.Model\\BlazorServerApp.Model.csproj|solutionrelative:blazorserverapp.model\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35793B76-F1C0-4927-ACE1-D0CEE1ECF94C}|BlazorServerApp.UI\\BlazorServerApp.UI.csproj|d:\\praveen\\projects\\blazorfirsthorizonapplication\\blazorserverapp\\blazorserverapp.ui\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{35793B76-F1C0-4927-ACE1-D0CEE1ECF94C}|BlazorServerApp.UI\\BlazorServerApp.UI.csproj|solutionrelative:blazorserverapp.ui\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A67C860-0455-43D7-915B-6942D457797C}|BlazorServerApp.Model\\BlazorServerApp.Model.csproj|d:\\praveen\\projects\\blazorfirsthorizonapplication\\blazorserverapp\\blazorserverapp.model\\blazorserverapp.model.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9A67C860-0455-43D7-915B-6942D457797C}|BlazorServerApp.Model\\BlazorServerApp.Model.csproj|solutionrelative:blazorserverapp.model\\blazorserverapp.model.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserPageNew.razor.css",
+              "DocumentMoniker": "D:\\Praveen\\Projects\\BlazorFirstHorizonApplication\\BlazorServerApp\\BlazorServerApp.UI\\Components\\Pocs\\UserPageNew.razor.css",
+              "RelativeDocumentMoniker": "BlazorServerApp.UI\\Components\\Pocs\\UserPageNew.razor.css",
+              "ToolTip": "D:\\Praveen\\Projects\\BlazorFirstHorizonApplication\\BlazorServerApp\\BlazorServerApp.UI\\Components\\Pocs\\UserPageNew.razor.css",
+              "RelativeToolTip": "BlazorServerApp.UI\\Components\\Pocs\\UserPageNew.razor.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-05-27T19:20:11.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserPageNew.razor.cs",
+              "DocumentMoniker": "D:\\Praveen\\Projects\\BlazorFirstHorizonApplication\\BlazorServerApp\\BlazorServerApp.UI\\Components\\Pocs\\UserPageNew.razor.cs",
+              "RelativeDocumentMoniker": "BlazorServerApp.UI\\Components\\Pocs\\UserPageNew.razor.cs",
+              "ToolTip": "D:\\Praveen\\Projects\\BlazorFirstHorizonApplication\\BlazorServerApp\\BlazorServerApp.UI\\Components\\Pocs\\UserPageNew.razor.cs",
+              "RelativeToolTip": "BlazorServerApp.UI\\Components\\Pocs\\UserPageNew.razor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T19:20:04.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserPageNew.razor",
+              "DocumentMoniker": "D:\\Praveen\\Projects\\BlazorFirstHorizonApplication\\BlazorServerApp\\BlazorServerApp.UI\\Components\\Pocs\\UserPageNew.razor",
+              "RelativeDocumentMoniker": "BlazorServerApp.UI\\Components\\Pocs\\UserPageNew.razor",
+              "ToolTip": "D:\\Praveen\\Projects\\BlazorFirstHorizonApplication\\BlazorServerApp\\BlazorServerApp.UI\\Components\\Pocs\\UserPageNew.razor",
+              "RelativeToolTip": "BlazorServerApp.UI\\Components\\Pocs\\UserPageNew.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-27T19:19:58.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserPage.razor",
+              "DocumentMoniker": "D:\\Praveen\\Projects\\BlazorFirstHorizonApplication\\BlazorServerApp\\BlazorServerApp.UI\\Components\\Pocs\\UserPage.razor",
+              "RelativeDocumentMoniker": "BlazorServerApp.UI\\Components\\Pocs\\UserPage.razor",
+              "ToolTip": "D:\\Praveen\\Projects\\BlazorFirstHorizonApplication\\BlazorServerApp\\BlazorServerApp.UI\\Components\\Pocs\\UserPage.razor",
+              "RelativeToolTip": "BlazorServerApp.UI\\Components\\Pocs\\UserPage.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEYAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-27T18:57:49.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\Praveen\\Projects\\BlazorFirstHorizonApplication\\BlazorServerApp\\BlazorServerApp.Tests\\Class1.cs",
+              "RelativeDocumentMoniker": "BlazorServerApp.Tests\\Class1.cs",
+              "ToolTip": "D:\\Praveen\\Projects\\BlazorFirstHorizonApplication\\BlazorServerApp\\BlazorServerApp.Tests\\Class1.cs",
+              "RelativeToolTip": "BlazorServerApp.Tests\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T18:11:31.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserServiceTests.cs",
+              "DocumentMoniker": "D:\\Praveen\\Projects\\BlazorFirstHorizonApplication\\BlazorServerApp\\BlazorServerApp.Tests\\UserServiceTests.cs",
+              "RelativeDocumentMoniker": "BlazorServerApp.Tests\\UserServiceTests.cs",
+              "ToolTip": "D:\\Praveen\\Projects\\BlazorFirstHorizonApplication\\BlazorServerApp\\BlazorServerApp.Tests\\UserServiceTests.cs",
+              "RelativeToolTip": "BlazorServerApp.Tests\\UserServiceTests.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAwwA4AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T18:03:44.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Praveen\\Projects\\BlazorFirstHorizonApplication\\BlazorServerApp\\BlazorServerApp.UI\\Program.cs",
+              "RelativeDocumentMoniker": "BlazorServerApp.UI\\Program.cs",
+              "ToolTip": "D:\\Praveen\\Projects\\BlazorFirstHorizonApplication\\BlazorServerApp\\BlazorServerApp.UI\\Program.cs",
+              "RelativeToolTip": "BlazorServerApp.UI\\Program.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAABEAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T17:52:24.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\Praveen\\Projects\\BlazorFirstHorizonApplication\\BlazorServerApp\\BlazorServerApp.DLL\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "BlazorServerApp.DLL\\AppDbContext.cs",
+              "ToolTip": "D:\\Praveen\\Projects\\BlazorFirstHorizonApplication\\BlazorServerApp\\BlazorServerApp.DLL\\AppDbContext.cs",
+              "RelativeToolTip": "BlazorServerApp.DLL\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T18:02:01.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "D:\\Praveen\\Projects\\BlazorFirstHorizonApplication\\BlazorServerApp\\BlazorServerApp.DLL\\Interface\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "BlazorServerApp.DLL\\Interface\\IUserRepository.cs",
+              "ToolTip": "D:\\Praveen\\Projects\\BlazorFirstHorizonApplication\\BlazorServerApp\\BlazorServerApp.DLL\\Interface\\IUserRepository.cs",
+              "RelativeToolTip": "BlazorServerApp.DLL\\Interface\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T18:01:01.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "D:\\Praveen\\Projects\\BlazorFirstHorizonApplication\\BlazorServerApp\\BlazorServerApp.DLL\\Repository\\UserRepository.cs",
+              "RelativeDocumentMoniker": "BlazorServerApp.DLL\\Repository\\UserRepository.cs",
+              "ToolTip": "D:\\Praveen\\Projects\\BlazorFirstHorizonApplication\\BlazorServerApp\\BlazorServerApp.DLL\\Repository\\UserRepository.cs",
+              "RelativeToolTip": "BlazorServerApp.DLL\\Repository\\UserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T18:00:53.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\Praveen\\Projects\\BlazorFirstHorizonApplication\\BlazorServerApp\\BlazorServerApp.DLL\\Class1.cs",
+              "RelativeDocumentMoniker": "BlazorServerApp.DLL\\Class1.cs",
+              "ToolTip": "D:\\Praveen\\Projects\\BlazorFirstHorizonApplication\\BlazorServerApp\\BlazorServerApp.DLL\\Class1.cs",
+              "RelativeToolTip": "BlazorServerApp.DLL\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T18:00:47.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "D:\\Praveen\\Projects\\BlazorFirstHorizonApplication\\BlazorServerApp\\BlazorServerApp.BLL\\Service\\UserService.cs",
+              "RelativeDocumentMoniker": "BlazorServerApp.BLL\\Service\\UserService.cs",
+              "ToolTip": "D:\\Praveen\\Projects\\BlazorFirstHorizonApplication\\BlazorServerApp\\BlazorServerApp.BLL\\Service\\UserService.cs",
+              "RelativeToolTip": "BlazorServerApp.BLL\\Service\\UserService.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T18:00:10.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "D:\\Praveen\\Projects\\BlazorFirstHorizonApplication\\BlazorServerApp\\BlazorServerApp.BLL\\Interface\\IUserService.cs",
+              "RelativeDocumentMoniker": "BlazorServerApp.BLL\\Interface\\IUserService.cs",
+              "ToolTip": "D:\\Praveen\\Projects\\BlazorFirstHorizonApplication\\BlazorServerApp\\BlazorServerApp.BLL\\Interface\\IUserService.cs",
+              "RelativeToolTip": "BlazorServerApp.BLL\\Interface\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T18:00:04.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\Praveen\\Projects\\BlazorFirstHorizonApplication\\BlazorServerApp\\BlazorServerApp.BLL\\Class1.cs",
+              "RelativeDocumentMoniker": "BlazorServerApp.BLL\\Class1.cs",
+              "ToolTip": "D:\\Praveen\\Projects\\BlazorFirstHorizonApplication\\BlazorServerApp\\BlazorServerApp.BLL\\Class1.cs",
+              "RelativeToolTip": "BlazorServerApp.BLL\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T18:00:01.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\Praveen\\Projects\\BlazorFirstHorizonApplication\\BlazorServerApp\\BlazorServerApp.Model\\Class1.cs",
+              "RelativeDocumentMoniker": "BlazorServerApp.Model\\Class1.cs",
+              "ToolTip": "D:\\Praveen\\Projects\\BlazorFirstHorizonApplication\\BlazorServerApp\\BlazorServerApp.Model\\Class1.cs",
+              "RelativeToolTip": "BlazorServerApp.Model\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T17:59:07.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Praveen\\Projects\\BlazorFirstHorizonApplication\\BlazorServerApp\\BlazorServerApp.UI\\appsettings.json",
+              "RelativeDocumentMoniker": "BlazorServerApp.UI\\appsettings.json",
+              "ToolTip": "D:\\Praveen\\Projects\\BlazorFirstHorizonApplication\\BlazorServerApp\\BlazorServerApp.UI\\appsettings.json",
+              "RelativeToolTip": "BlazorServerApp.UI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-27T17:53:05.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "BlazorServerApp.Model",
+              "DocumentMoniker": "D:\\Praveen\\Projects\\BlazorFirstHorizonApplication\\BlazorServerApp\\BlazorServerApp.Model\\BlazorServerApp.Model.csproj",
+              "RelativeDocumentMoniker": "BlazorServerApp.Model\\BlazorServerApp.Model.csproj",
+              "ToolTip": "D:\\Praveen\\Projects\\BlazorFirstHorizonApplication\\BlazorServerApp\\BlazorServerApp.Model\\BlazorServerApp.Model.csproj",
+              "RelativeToolTip": "BlazorServerApp.Model\\BlazorServerApp.Model.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-27T17:51:26.57Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
