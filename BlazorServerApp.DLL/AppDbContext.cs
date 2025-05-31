@@ -16,5 +16,6 @@ namespace BlazorServerApp.DLL
         }
 
         public DbSet<User> Users { get; set; } // Example model
+        public DbSet<Models> Models { get; set; } // Example model
     }
 }

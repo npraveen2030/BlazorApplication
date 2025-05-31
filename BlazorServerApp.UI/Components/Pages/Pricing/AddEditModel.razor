@@ -1,0 +1,88 @@
+﻿@page "/customermodels"
+@using BlazorServerApp.BLL.Interface
+@using BlazorServerApp.Model.EntityModel
+@inject IModelService modelService
+@inject IHttpContextAccessor HttpContextAccessor
+@* @rendermode InteractiveServer *@
+
+<h2 class="text-2xl font-semibold mb-4">User Management</h2>
+@* <EditForm Model="@newUser" OnValidSubmit="@AddUser" FormName="AddUserForm">
+	<DataAnnotationsValidator />
+	<ValidationSummary />
+
+	<div class="mb-2">
+		<label>Name:</label>
+		<InputText @bind-Value="newUser.Name" class="form-control" />
+	</div>
+
+	<div class="mb-2">
+		<label>Email:</label>
+		<InputText @bind-Value="newUser.Email" class="form-control" />
+	</div>
+
+	<button type="submit" class="btn btn-primary">Add User</button>
+</EditForm> *@
+
+<hr class="my-4" />
+
+<!-- User List -->
+<table class="table">
+	<thead>
+		<tr>
+			<th>ID</th>
+			<th>Name</th>
+		@* 	<th>Email</th>
+			<th>Action</th> *@
+		</tr>
+	</thead>
+	<tbody>
+		@foreach (var user in users)
+		{
+			<tr>
+				<td>@user.ModelId</td>
+				<td>@user.Name</td>
+				@* <td>@user.Email</td>
+				<td>
+					<button class="btn btn-danger btn-sm" @onclick="() => DeleteUser(user.Id)">Delete</button>
+				</td> *@
+			</tr>
+		}
+	</tbody>
+</table>
+<h3>AddEditModel</h3>
+
+@code {
+	private List<Models> users = new();
+	private Models newUser = new();
+
+	protected override async Task OnInitializedAsync()
+	{
+		string cookieValue = HttpContextAccessor.HttpContext.Request.Cookies["MyCookie"];
+		await LoadUsers();
+	}
+
+	private async Task LoadUsers()
+	{
+		var result = await modelService.GetAllUsersAsync();
+		users = result.ToList();
+	}
+
+	private async Task AddUser()
+	{
+		var userObj = new Models
+			{
+				Name = newUser.Name,
+				// Email = newUser.Email
+			};
+
+		await modelService.AddUserAsync(newUser);
+		newUser = new(); // reset form
+		await LoadUsers();
+	}
+
+	private async Task DeleteUser(int id)
+	{
+		await modelService.DeleteUserAsync(id);
+		await LoadUsers();
+	}
+}

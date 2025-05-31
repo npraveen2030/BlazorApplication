@@ -1,4 +1,4 @@
-using BlazorServerApp.BLL.Interface;
+﻿using BlazorServerApp.BLL.Interface;
 using BlazorServerApp.BLL.Service;
 using BlazorServerApp.DLL;
 using BlazorServerApp.DLL.Interface;
@@ -12,6 +12,8 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddRazorComponents()
     .AddInteractiveServerComponents();
 
+builder.Services.AddHttpContextAccessor(); // ✅ Add this line
+
 //builder.Services.AddDbContext<AppDbContext>(options =>
 //    options.UseInMemoryDatabase("UserDb"));
 builder.Services.AddDbContext<AppDbContext>(options =>
@@ -20,6 +22,9 @@ builder.Services.AddDbContext<AppDbContext>(options =>
 
 builder.Services.AddScoped<IUserRepository, UserRepository>();
 builder.Services.AddScoped<IUserService, UserService>();
+
+builder.Services.AddScoped<IModelRepository, ModelRepository>();
+builder.Services.AddScoped<IModelService, ModelService>();
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
